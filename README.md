@@ -1,3 +1,12 @@
+<p >
+  <img src="iam.svg" alt="Mon graphique de contributions 3D">
+</p>
+<p >
+  <img src="edwino-graph-text.svg" alt="Mon graphique de contributions 3D">
+</p>
+<p >
+  <img src="maminirina.svg" alt="Mon graphique de contributions 3D">
+</p>
 # 💫 About Me:
 🔭 I’m currently working on a new Game<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about what you want<br>⚡ I can play guitar without a guitar
 
@@ -22,6 +31,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaminirinaEdwino&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
+![](https://github-stats-animator-mx1wo5wkb-maminirinaedwinos-projects.vercel.app/api/account-general?theme=dark&icon=user&slot1=stars&slot2=commits_total&slot3=commits_current_year&slot4=pull_requests&slot5=issues)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MaminirinaEdwino&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
@@ -37,5 +48,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaminrinaEdwino/MaminrinaEdwino/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MaminrinaEdwino/MaminrinaEdwino/output/github-snake.svg" />
 </picture>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

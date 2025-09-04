@@ -1,0 +1,1028 @@
+<svg width="756.0" height="109.0" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.contrib-square { stroke-width: 1; stroke: rgba(27,31,35,0.06); rx: 2; ry: 2; }
+.eating-line { fill: #ff0000; }
+</style>
+</defs>
+<rect id="square-0-0" x="8.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 01, 2024</title>
+</rect>
+<rect id="square-0-1" x="8.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 02, 2024</title>
+</rect>
+<rect id="square-0-2" x="8.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 03, 2024</title>
+</rect>
+<rect id="square-0-3" x="8.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 04, 2024</title>
+</rect>
+<rect id="square-0-4" x="8.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 05, 2024</title>
+</rect>
+<rect id="square-0-5" x="8.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 06, 2024</title>
+</rect>
+<rect id="square-0-6" x="8.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Sep 07, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.000;0.002;0.682;0.909;0.909;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-1-0" x="22.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 08, 2024</title>
+</rect>
+<rect id="square-1-1" x="22.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 09, 2024</title>
+</rect>
+<rect id="square-1-2" x="22.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Sep 10, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-1-3" x="22.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 11, 2024</title>
+</rect>
+<rect id="square-1-4" x="22.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 12, 2024</title>
+</rect>
+<rect id="square-1-5" x="22.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 13, 2024</title>
+</rect>
+<rect id="square-1-6" x="22.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 14, 2024</title>
+</rect>
+<rect id="square-2-0" x="36.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 15, 2024</title>
+</rect>
+<rect id="square-2-1" x="36.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 16, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-2-2" x="36.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 17, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-2-3" x="36.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Sep 18, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-2-4" x="36.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 19, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-2-5" x="36.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 20, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-2-6" x="36.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 21, 2024</title>
+</rect>
+<rect id="square-3-0" x="50.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Sep 22, 2024</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.026;0.028;0.682;0.883;0.885;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-3-1" x="50.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 23, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-3-2" x="50.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 24, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.428;0.431;0.455;0.481;0.483;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-3-3" x="50.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 25, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.428;0.431;0.455;0.481;0.483;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-3-4" x="50.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 26, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-3-5" x="50.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 27, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-3-6" x="50.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 28, 2024</title>
+</rect>
+<rect id="square-4-0" x="64.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 29, 2024</title>
+</rect>
+<rect id="square-4-1" x="64.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Sep 30, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-4-2" x="64.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 01, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.420;0.422;0.455;0.490;0.492;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-4-3" x="64.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 02, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.420;0.422;0.455;0.490;0.492;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-4-4" x="64.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 03, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-4-5" x="64.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 04, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.035;0.037;0.682;0.874;0.876;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-4-6" x="64.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 05, 2024</title>
+</rect>
+<rect id="square-5-0" x="78.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Oct 06, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.044;0.046;0.682;0.865;0.868;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-5-1" x="78.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 07, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-5-2" x="78.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 08, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-5-3" x="78.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Oct 09, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-5-4" x="78.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 10, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-5-5" x="78.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 11, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-5-6" x="78.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 12, 2024</title>
+</rect>
+<rect id="square-6-0" x="92.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 13, 2024</title>
+</rect>
+<rect id="square-6-1" x="92.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 14, 2024</title>
+</rect>
+<rect id="square-6-2" x="92.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 15, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-6-3" x="92.5" y="49.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Oct 16, 2024</title>
+<animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#161b22;#26a641;#26a641;#26a641" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-6-4" x="92.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 17, 2024</title>
+</rect>
+<rect id="square-6-5" x="92.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 18, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-6-6" x="92.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 19, 2024</title>
+</rect>
+<rect id="square-7-0" x="106.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 20, 2024</title>
+</rect>
+<rect id="square-7-1" x="106.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 21, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-7-2" x="106.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Oct 22, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-7-3" x="106.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Oct 23, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-7-4" x="106.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 24, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-7-5" x="106.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 25, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-7-6" x="106.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 26, 2024</title>
+</rect>
+<rect id="square-8-0" x="120.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 27, 2024</title>
+</rect>
+<rect id="square-8-1" x="120.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Oct 28, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.385;0.387;0.455;0.524;0.527;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-8-2" x="120.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Oct 29, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.070;0.072;0.682;0.839;0.841;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-8-3" x="120.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Oct 30, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.385;0.387;0.455;0.524;0.527;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-8-4" x="120.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Oct 31, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.070;0.072;0.682;0.839;0.841;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-8-5" x="120.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 01, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-8-6" x="120.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 02, 2024</title>
+</rect>
+<rect id="square-9-0" x="134.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Nov 03, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.079;0.081;0.682;0.830;0.833;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-9-1" x="134.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 04, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.376;0.378;0.455;0.533;0.535;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-9-2" x="134.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 05, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-9-3" x="134.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 06, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.376;0.378;0.455;0.533;0.535;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-9-4" x="134.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Nov 07, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.079;0.081;0.682;0.830;0.833;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-9-5" x="134.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 08, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-9-6" x="134.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 09, 2024</title>
+</rect>
+<rect id="square-10-0" x="148.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 10, 2024</title>
+</rect>
+<rect id="square-10-1" x="148.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 11, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-10-2" x="148.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Nov 12, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-10-3" x="148.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Nov 13, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-10-4" x="148.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Nov 14, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-10-5" x="148.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Nov 15, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-10-6" x="148.5" y="91.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Nov 16, 2024</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.087;0.090;0.682;0.822;0.824;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-11-0" x="162.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Nov 17, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-11-1" x="162.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 18, 2024</title>
+</rect>
+<rect id="square-11-2" x="162.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Nov 19, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-11-3" x="162.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Nov 20, 2024</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-11-4" x="162.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Nov 21, 2024</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-11-5" x="162.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Nov 22, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-11-6" x="162.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Nov 23, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-12-0" x="176.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Nov 24, 2024</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.105;0.107;0.682;0.804;0.806;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-12-1" x="176.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 25, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.350;0.352;0.455;0.559;0.562;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-12-2" x="176.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 26, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.350;0.352;0.455;0.559;0.562;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-12-3" x="176.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Nov 27, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.350;0.352;0.455;0.559;0.562;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-12-4" x="176.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 28, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.350;0.352;0.455;0.559;0.562;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-12-5" x="176.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Nov 29, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.350;0.352;0.455;0.559;0.562;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-12-6" x="176.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Nov 30, 2024</title>
+</rect>
+<rect id="square-13-0" x="190.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 01, 2024</title>
+</rect>
+<rect id="square-13-1" x="190.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 02, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-13-2" x="190.5" y="35.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Dec 03, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.341;0.343;0.455;0.568;0.570;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-13-3" x="190.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Dec 04, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.341;0.343;0.455;0.568;0.570;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-13-4" x="190.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Dec 05, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.114;0.116;0.682;0.795;0.798;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-13-5" x="190.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Dec 06, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.114;0.116;0.682;0.795;0.798;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-13-6" x="190.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 07, 2024</title>
+</rect>
+<rect id="square-14-0" x="204.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Dec 08, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.122;0.125;0.682;0.787;0.789;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-14-1" x="204.5" y="21.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Dec 09, 2024</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.122;0.125;0.682;0.787;0.789;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-14-2" x="204.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 10, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.332;0.334;0.455;0.577;0.579;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-14-3" x="204.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Dec 11, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.332;0.334;0.455;0.577;0.579;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-14-4" x="204.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Dec 12, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.122;0.125;0.682;0.787;0.789;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-14-5" x="204.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Dec 13, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.122;0.125;0.682;0.787;0.789;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-14-6" x="204.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 14, 2024</title>
+</rect>
+<rect id="square-15-0" x="218.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 15, 2024</title>
+</rect>
+<rect id="square-15-1" x="218.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 16, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.323;0.326;0.455;0.586;0.588;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-15-2" x="218.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Dec 17, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.323;0.326;0.455;0.586;0.588;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-15-3" x="218.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 18, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.323;0.326;0.455;0.586;0.588;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-15-4" x="218.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Dec 19, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.323;0.326;0.455;0.586;0.588;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-15-5" x="218.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Dec 20, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.323;0.326;0.455;0.586;0.588;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-15-6" x="218.5" y="91.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Dec 21, 2024</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.131;0.133;0.682;0.778;0.780;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-16-0" x="232.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 22, 2024</title>
+</rect>
+<rect id="square-16-1" x="232.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 23, 2024</title>
+</rect>
+<rect id="square-16-2" x="232.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 24, 2024</title>
+</rect>
+<rect id="square-16-3" x="232.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 25, 2024</title>
+</rect>
+<rect id="square-16-4" x="232.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 26, 2024</title>
+</rect>
+<rect id="square-16-5" x="232.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 27, 2024</title>
+</rect>
+<rect id="square-16-6" x="232.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Dec 28, 2024</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.140;0.142;0.682;0.769;0.771;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-17-0" x="246.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 29, 2024</title>
+</rect>
+<rect id="square-17-1" x="246.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 30, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.306;0.308;0.455;0.603;0.605;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-17-2" x="246.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Dec 31, 2024</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-17-3" x="246.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 01, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-17-4" x="246.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 02, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-17-5" x="246.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jan 03, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.306;0.308;0.455;0.603;0.605;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-17-6" x="246.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 04, 2025</title>
+</rect>
+<rect id="square-18-0" x="260.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jan 05, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.157;0.160;0.682;0.752;0.754;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-18-1" x="260.5" y="21.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jan 06, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-18-2" x="260.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jan 07, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-18-3" x="260.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Jan 08, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-18-4" x="260.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jan 09, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-18-5" x="260.5" y="77.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jan 10, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-18-6" x="260.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 11, 2025</title>
+</rect>
+<rect id="square-19-0" x="274.5" y="7.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Jan 12, 2025</title>
+<animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#161b22;#26a641;#26a641;#26a641" dur="11.0s" keyTimes="0.000;0.166;0.168;0.682;0.743;0.745;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-19-1" x="274.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 13, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.288;0.291;0.455;0.621;0.623;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-19-2" x="274.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 14, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.288;0.291;0.455;0.621;0.623;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-19-3" x="274.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 15, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.288;0.291;0.455;0.621;0.623;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-19-4" x="274.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 16, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.288;0.291;0.455;0.621;0.623;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-19-5" x="274.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 17, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.288;0.291;0.455;0.621;0.623;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-19-6" x="274.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 18, 2025</title>
+</rect>
+<rect id="square-20-0" x="288.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 19, 2025</title>
+</rect>
+<rect id="square-20-1" x="288.5" y="21.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>7 contributions on Jan 20, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.280;0.282;0.455;0.629;0.632;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-20-2" x="288.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jan 21, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.175;0.177;0.682;0.734;0.736;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-20-3" x="288.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Jan 22, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.175;0.177;0.682;0.734;0.736;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-20-4" x="288.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jan 23, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.175;0.177;0.682;0.734;0.736;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-20-5" x="288.5" y="77.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>9 contributions on Jan 24, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.280;0.282;0.455;0.629;0.632;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-20-6" x="288.5" y="91.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>20 contributions on Jan 25, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.175;0.177;0.682;0.734;0.736;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-21-0" x="302.5" y="7.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>26 contributions on Jan 26, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-21-1" x="302.5" y="21.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>8 contributions on Jan 27, 2025</title>
+<animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#161b22;#26a641;#26a641;#26a641" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-21-2" x="302.5" y="35.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Jan 28, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-21-3" x="302.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Jan 29, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-21-4" x="302.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jan 30, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-21-5" x="302.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jan 31, 2025</title>
+</rect>
+<rect id="square-21-6" x="302.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Feb 01, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-22-0" x="316.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Feb 02, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.192;0.194;0.682;0.717;0.719;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-22-1" x="316.5" y="21.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Feb 03, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.262;0.264;0.455;0.647;0.649;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-22-2" x="316.5" y="35.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Feb 04, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.262;0.264;0.455;0.647;0.649;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-22-3" x="316.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 05, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.262;0.264;0.455;0.647;0.649;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-22-4" x="316.5" y="63.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>9 contributions on Feb 06, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.262;0.264;0.455;0.647;0.649;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-22-5" x="316.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 07, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.262;0.264;0.455;0.647;0.649;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-22-6" x="316.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 08, 2025</title>
+</rect>
+<rect id="square-23-0" x="330.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 09, 2025</title>
+</rect>
+<rect id="square-23-1" x="330.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 10, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-23-2" x="330.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 11, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.253;0.256;0.455;0.656;0.658;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-23-3" x="330.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 12, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.253;0.256;0.455;0.656;0.658;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-23-4" x="330.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 13, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-23-5" x="330.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 14, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-23-6" x="330.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 15, 2025</title>
+</rect>
+<rect id="square-24-0" x="344.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 16, 2025</title>
+</rect>
+<rect id="square-24-1" x="344.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 17, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-24-2" x="344.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 18, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-24-3" x="344.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 19, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.245;0.247;0.455;0.664;0.667;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-24-4" x="344.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 20, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.245;0.247;0.455;0.664;0.667;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-24-5" x="344.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 21, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-24-6" x="344.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 22, 2025</title>
+</rect>
+<rect id="square-25-0" x="358.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 23, 2025</title>
+</rect>
+<rect id="square-25-1" x="358.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 24, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.236;0.238;0.455;0.673;0.675;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-25-2" x="358.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Feb 25, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.236;0.238;0.455;0.673;0.675;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-25-3" x="358.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Feb 26, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.236;0.238;0.455;0.673;0.675;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-25-4" x="358.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Feb 27, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.236;0.238;0.455;0.673;0.675;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-25-5" x="358.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Feb 28, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.236;0.238;0.455;0.673;0.675;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-25-6" x="358.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 01, 2025</title>
+</rect>
+<rect id="square-26-0" x="372.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 02, 2025</title>
+</rect>
+<rect id="square-26-1" x="372.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 03, 2025</title>
+</rect>
+<rect id="square-26-2" x="372.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Mar 04, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.227;0.229;0.682;0.682;0.684;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-26-3" x="372.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Mar 05, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.227;0.229;0.682;0.682;0.684;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-26-4" x="372.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Mar 06, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.227;0.229;0.682;0.682;0.684;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-26-5" x="372.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Mar 07, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.227;0.229;0.682;0.682;0.684;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-26-6" x="372.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 08, 2025</title>
+</rect>
+<rect id="square-27-0" x="386.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Mar 09, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.219;0.221;0.682;0.691;0.693;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-27-1" x="386.5" y="21.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Mar 10, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.236;0.238;0.455;0.673;0.675;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-27-2" x="386.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Mar 11, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.219;0.221;0.682;0.691;0.693;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-27-3" x="386.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Mar 12, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.219;0.221;0.682;0.691;0.693;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-27-4" x="386.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 13, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-27-5" x="386.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 14, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.236;0.238;0.455;0.673;0.675;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-27-6" x="386.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 15, 2025</title>
+</rect>
+<rect id="square-28-0" x="400.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 16, 2025</title>
+</rect>
+<rect id="square-28-1" x="400.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 17, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.245;0.247;0.455;0.664;0.667;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-28-2" x="400.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 18, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.245;0.247;0.455;0.664;0.667;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-28-3" x="400.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 19, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.245;0.247;0.455;0.664;0.667;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-28-4" x="400.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 20, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.245;0.247;0.455;0.664;0.667;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-28-5" x="400.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 21, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.245;0.247;0.455;0.664;0.667;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-28-6" x="400.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 22, 2025</title>
+</rect>
+<rect id="square-29-0" x="414.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 23, 2025</title>
+</rect>
+<rect id="square-29-1" x="414.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 24, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.253;0.256;0.455;0.656;0.658;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-29-2" x="414.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 25, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.253;0.256;0.455;0.656;0.658;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-29-3" x="414.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 26, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.253;0.256;0.455;0.656;0.658;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-29-4" x="414.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 27, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.253;0.256;0.455;0.656;0.658;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-29-5" x="414.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 28, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.253;0.256;0.455;0.656;0.658;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-29-6" x="414.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 29, 2025</title>
+</rect>
+<rect id="square-30-0" x="428.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 30, 2025</title>
+</rect>
+<rect id="square-30-1" x="428.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Mar 31, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.262;0.264;0.455;0.647;0.649;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-30-2" x="428.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 01, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-30-3" x="428.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 02, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-30-4" x="428.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 03, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-30-5" x="428.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 04, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.262;0.264;0.455;0.647;0.649;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-30-6" x="428.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 05, 2025</title>
+</rect>
+<rect id="square-31-0" x="442.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 06, 2025</title>
+</rect>
+<rect id="square-31-1" x="442.5" y="21.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Apr 07, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-31-2" x="442.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Apr 08, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-31-3" x="442.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Apr 09, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-31-4" x="442.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 10, 2025</title>
+</rect>
+<rect id="square-31-5" x="442.5" y="77.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Apr 11, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.184;0.186;0.682;0.726;0.728;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-31-6" x="442.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 12, 2025</title>
+</rect>
+<rect id="square-32-0" x="456.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 13, 2025</title>
+</rect>
+<rect id="square-32-1" x="456.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 14, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.280;0.282;0.455;0.629;0.632;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-32-2" x="456.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 15, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.280;0.282;0.455;0.629;0.632;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-32-3" x="456.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 16, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.280;0.282;0.455;0.629;0.632;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-32-4" x="456.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Apr 17, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.280;0.282;0.455;0.629;0.632;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-32-5" x="456.5" y="77.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Apr 18, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.280;0.282;0.455;0.629;0.632;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-32-6" x="456.5" y="91.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>16 contributions on Apr 19, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.175;0.177;0.682;0.734;0.736;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-33-0" x="470.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Apr 20, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.166;0.168;0.682;0.743;0.745;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-33-1" x="470.5" y="21.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>8 contributions on Apr 21, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.288;0.291;0.455;0.621;0.623;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-33-2" x="470.5" y="35.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Apr 22, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.166;0.168;0.682;0.743;0.745;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-33-3" x="470.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 23, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.288;0.291;0.455;0.621;0.623;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-33-4" x="470.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 24, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-33-5" x="470.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 25, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-33-6" x="470.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 26, 2025</title>
+</rect>
+<rect id="square-34-0" x="484.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Apr 27, 2025</title>
+</rect>
+<rect id="square-34-1" x="484.5" y="21.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Apr 28, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-34-2" x="484.5" y="35.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>10 contributions on Apr 29, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.157;0.160;0.682;0.752;0.754;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-34-3" x="484.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Apr 30, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-34-4" x="484.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 01, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.297;0.299;0.455;0.612;0.614;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-34-5" x="484.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 02, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-34-6" x="484.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 03, 2025</title>
+</rect>
+<rect id="square-35-0" x="498.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 04, 2025</title>
+</rect>
+<rect id="square-35-1" x="498.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 05, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-35-2" x="498.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 06, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.306;0.308;0.455;0.603;0.605;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-35-3" x="498.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 07, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-35-4" x="498.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 08, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-35-5" x="498.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 09, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.306;0.308;0.455;0.603;0.605;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-35-6" x="498.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 10, 2025</title>
+</rect>
+<rect id="square-36-0" x="512.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 11, 2025</title>
+</rect>
+<rect id="square-36-1" x="512.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 12, 2025</title>
+</rect>
+<rect id="square-36-2" x="512.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 13, 2025</title>
+</rect>
+<rect id="square-36-3" x="512.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 14, 2025</title>
+</rect>
+<rect id="square-36-4" x="512.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 15, 2025</title>
+</rect>
+<rect id="square-36-5" x="512.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 16, 2025</title>
+</rect>
+<rect id="square-36-6" x="512.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 17, 2025</title>
+</rect>
+<rect id="square-37-0" x="526.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 18, 2025</title>
+</rect>
+<rect id="square-37-1" x="526.5" y="21.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on May 19, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.323;0.326;0.455;0.586;0.588;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-37-2" x="526.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on May 20, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.131;0.133;0.682;0.778;0.780;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-37-3" x="526.5" y="49.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>11 contributions on May 21, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.131;0.133;0.682;0.778;0.780;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-37-4" x="526.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on May 22, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.131;0.133;0.682;0.778;0.780;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-37-5" x="526.5" y="77.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on May 23, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.323;0.326;0.455;0.586;0.588;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-37-6" x="526.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on May 24, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.131;0.133;0.682;0.778;0.780;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-38-0" x="540.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on May 25, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.122;0.125;0.682;0.787;0.789;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-38-1" x="540.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 26, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.332;0.334;0.455;0.577;0.579;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-38-2" x="540.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 27, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.332;0.334;0.455;0.577;0.579;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-38-3" x="540.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 28, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.332;0.334;0.455;0.577;0.579;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-38-4" x="540.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on May 29, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.332;0.334;0.455;0.577;0.579;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-38-5" x="540.5" y="77.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on May 30, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.332;0.334;0.455;0.577;0.579;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-38-6" x="540.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on May 31, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.122;0.125;0.682;0.787;0.789;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-39-0" x="554.5" y="7.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Jun 01, 2025</title>
+<animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#161b22;#26a641;#26a641;#26a641" dur="11.0s" keyTimes="0.000;0.114;0.116;0.682;0.795;0.798;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-39-1" x="554.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 02, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.341;0.343;0.455;0.568;0.570;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-39-2" x="554.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 03, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.341;0.343;0.455;0.568;0.570;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-39-3" x="554.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Jun 04, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.341;0.343;0.455;0.568;0.570;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-39-4" x="554.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jun 05, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.341;0.343;0.455;0.568;0.570;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-39-5" x="554.5" y="77.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Jun 06, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.341;0.343;0.455;0.568;0.570;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-39-6" x="554.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 07, 2025</title>
+</rect>
+<rect id="square-40-0" x="568.5" y="7.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>10 contributions on Jun 08, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.105;0.107;0.682;0.804;0.806;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-40-1" x="568.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 09, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.350;0.352;0.455;0.559;0.562;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-40-2" x="568.5" y="35.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Jun 10, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.105;0.107;0.682;0.804;0.806;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-40-3" x="568.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jun 11, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.105;0.107;0.682;0.804;0.806;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-40-4" x="568.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jun 12, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.105;0.107;0.682;0.804;0.806;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-40-5" x="568.5" y="77.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jun 13, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.350;0.352;0.455;0.559;0.562;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-40-6" x="568.5" y="91.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jun 14, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.105;0.107;0.682;0.804;0.806;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-41-0" x="582.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 15, 2025</title>
+</rect>
+<rect id="square-41-1" x="582.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 16, 2025</title>
+</rect>
+<rect id="square-41-2" x="582.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 17, 2025</title>
+</rect>
+<rect id="square-41-3" x="582.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 18, 2025</title>
+</rect>
+<rect id="square-41-4" x="582.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jun 19, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-41-5" x="582.5" y="77.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Jun 20, 2025</title>
+<animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#161b22;#26a641;#26a641;#26a641" dur="11.0s" keyTimes="0.000;0.096;0.098;0.682;0.813;0.815;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-41-6" x="582.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 21, 2025</title>
+</rect>
+<rect id="square-42-0" x="596.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jun 22, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.087;0.090;0.682;0.822;0.824;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-42-1" x="596.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 23, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-42-2" x="596.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 24, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-42-3" x="596.5" y="49.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>16 contributions on Jun 25, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-42-4" x="596.5" y="63.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 26, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-42-5" x="596.5" y="77.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jun 27, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.367;0.369;0.455;0.542;0.544;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-42-6" x="596.5" y="91.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 28, 2025</title>
+</rect>
+<rect id="square-43-0" x="610.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 29, 2025</title>
+</rect>
+<rect id="square-43-1" x="610.5" y="21.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jun 30, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-43-2" x="610.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jul 01, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.376;0.378;0.455;0.533;0.535;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-43-3" x="610.5" y="49.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jul 02, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.376;0.378;0.455;0.533;0.535;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-43-4" x="610.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jul 03, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.079;0.081;0.682;0.830;0.833;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-43-5" x="610.5" y="77.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>9 contributions on Jul 04, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.079;0.081;0.682;0.830;0.833;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-43-6" x="610.5" y="91.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Jul 05, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.079;0.081;0.682;0.830;0.833;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-44-0" x="624.5" y="7.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jul 06, 2025</title>
+</rect>
+<rect id="square-44-1" x="624.5" y="21.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>29 contributions on Jul 07, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.070;0.072;0.682;0.839;0.841;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-44-2" x="624.5" y="35.0" width="11" height="11" fill="#161b22" class="contrib-square"><title>No contributions on Jul 08, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22" dur="11.0s" keyTimes="0.000;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-44-3" x="624.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 09, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.385;0.387;0.455;0.524;0.527;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-44-4" x="624.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 10, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.385;0.387;0.455;0.524;0.527;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-44-5" x="624.5" y="77.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>10 contributions on Jul 11, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.070;0.072;0.682;0.839;0.841;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-44-6" x="624.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 12, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.070;0.072;0.682;0.839;0.841;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-45-0" x="638.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 13, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.061;0.063;0.682;0.848;0.850;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-45-1" x="638.5" y="21.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>10 contributions on Jul 14, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-45-2" x="638.5" y="35.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>21 contributions on Jul 15, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-45-3" x="638.5" y="49.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Jul 16, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-45-4" x="638.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jul 17, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-45-5" x="638.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 18, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.393;0.396;0.455;0.516;0.518;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-45-6" x="638.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jul 19, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.061;0.063;0.682;0.848;0.850;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-46-0" x="652.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 20, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-46-1" x="652.5" y="21.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Jul 21, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-46-2" x="652.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jul 22, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-46-3" x="652.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jul 23, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-46-4" x="652.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 24, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-46-5" x="652.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 25, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-46-6" x="652.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jul 26, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.052;0.055;0.682;0.857;0.859;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-47-0" x="666.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jul 27, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.044;0.046;0.682;0.865;0.868;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-47-1" x="666.5" y="21.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 28, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.044;0.046;0.682;0.865;0.868;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-47-2" x="666.5" y="35.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Jul 29, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-47-3" x="666.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Jul 30, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-47-4" x="666.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Jul 31, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-47-5" x="666.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 01, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.411;0.413;0.455;0.498;0.500;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-47-6" x="666.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 02, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.044;0.046;0.682;0.865;0.868;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-48-0" x="680.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Aug 03, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.035;0.037;0.682;0.874;0.876;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-48-1" x="680.5" y="21.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>4 contributions on Aug 04, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.420;0.422;0.455;0.490;0.492;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-48-2" x="680.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 05, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.035;0.037;0.682;0.874;0.876;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-48-3" x="680.5" y="49.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Aug 06, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.420;0.422;0.455;0.490;0.492;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-48-4" x="680.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 07, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.035;0.037;0.682;0.874;0.876;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-48-5" x="680.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 08, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.035;0.037;0.682;0.874;0.876;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-48-6" x="680.5" y="91.0" width="11" height="11" fill="#39d353" class="contrib-square"><title>10 contributions on Aug 09, 2025</title>
+<animate attributeName="fill" values="#39d353;#39d353;#161b22;#161b22;#161b22;#39d353;#39d353;#39d353" dur="11.0s" keyTimes="0.000;0.035;0.037;0.682;0.874;0.876;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-49-0" x="694.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Aug 10, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.026;0.028;0.682;0.883;0.885;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-49-1" x="694.5" y="21.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 11, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.428;0.431;0.455;0.481;0.483;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-49-2" x="694.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 12, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.026;0.028;0.682;0.883;0.885;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-49-3" x="694.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 13, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.428;0.431;0.455;0.481;0.483;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-49-4" x="694.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 14, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.026;0.028;0.682;0.883;0.885;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-49-5" x="694.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 15, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.026;0.028;0.682;0.883;0.885;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-49-6" x="694.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 16, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.026;0.028;0.682;0.883;0.885;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-50-0" x="708.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>3 contributions on Aug 17, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.017;0.020;0.682;0.892;0.894;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-50-1" x="708.5" y="21.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 18, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.017;0.020;0.682;0.892;0.894;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-50-2" x="708.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 19, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-50-3" x="708.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 20, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-50-4" x="708.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 21, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-50-5" x="708.5" y="77.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 22, 2025</title>
+<animate attributeName="fill" values="#161b22;#161b22;#161b22;#26a641;#26a641;#26a641;#161b22;#161b22;#161b22" dur="11.0s" keyTimes="0.000;0.227;0.437;0.439;0.455;0.472;0.474;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-50-6" x="708.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 23, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.017;0.020;0.682;0.892;0.894;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-51-0" x="722.5" y="7.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 24, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-51-1" x="722.5" y="21.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 25, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-51-2" x="722.5" y="35.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>6 contributions on Aug 26, 2025</title>
+<animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#161b22;#26a641;#26a641;#26a641" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-51-3" x="722.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Aug 27, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-51-4" x="722.5" y="63.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Aug 28, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-51-5" x="722.5" y="77.0" width="11" height="11" fill="#26a641" class="contrib-square"><title>7 contributions on Aug 29, 2025</title>
+<animate attributeName="fill" values="#26a641;#26a641;#161b22;#161b22;#161b22;#26a641;#26a641;#26a641" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-51-6" x="722.5" y="91.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Aug 30, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.009;0.011;0.682;0.900;0.903;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-52-0" x="736.5" y="7.0" width="11" height="11" fill="#006d32" class="contrib-square"><title>5 contributions on Aug 31, 2025</title>
+<animate attributeName="fill" values="#006d32;#006d32;#161b22;#161b22;#161b22;#006d32;#006d32;#006d32" dur="11.0s" keyTimes="0.000;0.000;0.002;0.682;0.909;0.909;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-52-1" x="736.5" y="21.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Sep 01, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.000;0.002;0.682;0.909;0.909;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-52-2" x="736.5" y="35.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Sep 02, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.000;0.002;0.682;0.909;0.909;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-52-3" x="736.5" y="49.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>1 contribution on Sep 03, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.000;0.002;0.682;0.909;0.909;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect id="square-52-4" x="736.5" y="63.0" width="11" height="11" fill="#0e4429" class="contrib-square"><title>2 contributions on Sep 04, 2025</title>
+<animate attributeName="fill" values="#0e4429;#0e4429;#161b22;#161b22;#161b22;#0e4429;#0e4429;#0e4429" dur="11.0s" keyTimes="0.000;0.000;0.002;0.682;0.909;0.909;0.909;1.000" repeatCount="indefinite"/>
+</rect>
+<rect class="eating-line" x="0.0" y="1.5" width="5.5" height="106" rx="2" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0,0;372.5,0;0,0;372.5,0;0,0;0,0" dur="11.0s" keyTimes="0.000;0.227;0.455;0.682;0.909;1.000" repeatCount="indefinite"/></rect>
+<rect class="eating-line" x="750.5" y="1.5" width="5.5" height="106" rx="2" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0,0;-378.0,0;0,0;-378.0,0;0,0;0,0" dur="11.0s" keyTimes="0.000;0.227;0.455;0.682;0.909;1.000" repeatCount="indefinite"/></rect>
+</svg>
