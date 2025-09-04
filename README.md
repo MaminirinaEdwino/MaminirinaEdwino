@@ -26,7 +26,7 @@
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="Mon graphique de contributions 3D">
 </p>
 <p align="center">
-  <img src="profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg" alt="Mon graphique de contributions 3D">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="Mon graphique de contributions 3D">
 </p>
 profile-3d-contrib/profile-gitblock.svg
 
