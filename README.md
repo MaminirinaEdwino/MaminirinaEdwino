@@ -21,10 +21,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaminirinaEdwino&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!--
 <p align="center">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="Mon graphique de contributions 3D">
-</p>
+</p>-->
 <p align="center">
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="Mon graphique de contributions 3D">
 </p>
