@@ -28,6 +28,5 @@
 <p align="center">
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="Mon graphique de contributions 3D">
 </p>
-profile-3d-contrib/profile-gitblock.svg
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
