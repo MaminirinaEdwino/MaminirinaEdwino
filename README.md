@@ -31,7 +31,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaminirinaEdwino&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
-![](https://github-stats-animator-mx1wo5wkb-maminirinaedwinos-projects.vercel.app/api/account-general?theme=dark&icon=user&slot1=stars&slot2=commits_total&slot3=commits_current_year&slot4=pull_requests&slot5=issues)
+
+
+<div style="display:flex; flex-direction: column; justify-items: center; align-items: center">
+<img src="https://github-stats-animator-eight.vercel.app/api/account-general?theme=dark&icon=user&slot1=stars&slot2=commits_total&slot3=commits_current_year&slot4=pull_requests&slot5=issues"/>
+<img src="https://github-stats-animator-eight.vercel.app/api/top-languages?theme=dark&languages_count=5&decimal_places=1&width=400&height=300"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaminirinaEdwino&icon=0&color=0)](https://visitcount.itsvg.in)
