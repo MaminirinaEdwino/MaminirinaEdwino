@@ -48,14 +48,10 @@
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="Mon graphique de contributions 3D">
 </p>-->
 <p align="center">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="Mon graphique de contributions 3D">
+  <img src="profile-3d-contrib/profile-season-animate.svg alt="Mon graphique de contributions 3D">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaminrinaEdwino/MaminrinaEdwino/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaminrinaEdwino/MaminrinaEdwino/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MaminrinaEdwino/MaminrinaEdwino/output/github-snake.svg" />
-</picture>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
