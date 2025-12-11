@@ -7,6 +7,7 @@
 <p >
   <img src="maminirina.svg" alt="Mon graphique de contributions 3D">
 </p>
+
 # 💫 About Me:
 🔭 I’m currently working on a new Game<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about what you want<br>⚡ I can play guitar without a guitar
 
