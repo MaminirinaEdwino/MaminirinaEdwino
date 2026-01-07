@@ -4,21 +4,25 @@
 <p >
   <img src="edwino-graph-text.svg" alt="Mon graphique de contributions 3D">
 </p>-->
-<p >
+<!-- <p >
   <img src="maminirina.svg" alt="Mon graphique de contributions 3D">
-</p> 
+</p>  -->
 
-# 💫 About Me:
-🔭 I’m currently working on a new Game<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about what you want<br>⚡ I can play guitar without a guitar
+<!-- # 💫 About Me:
+🔭 I’m currently working on a new Game<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about what you want<br>⚡ I can play guitar without a guitar -->
+
+<div style="display: flex; flex-direction: column;">
+<img src="image.png" style="margin: auto"/>
+<div/>
 
 
-## 🌐 Socials:
+<!-- ## 🌐 Socials: -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EdwinoRafitoarisoa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Edwino.big) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EdwinoMaminirina) 
 
 
 
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack: -->
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  -->
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) -->
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
