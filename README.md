@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MaminirinaEdwino&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaminirinaEdwino&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaminirinaEdwino&theme=dark&hide_border=true)
-
+[![committers.top badge](https://user-badge.committers.top/madagascar_private/MaminirinaEdwino.svg)](https://user-badge.committers.top/madagascar_private/MaminirinaEdwino)
 
 
 ### ✍️ Random Dev Quote
