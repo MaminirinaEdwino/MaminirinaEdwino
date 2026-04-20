@@ -19,6 +19,8 @@
 <!-- ## 🌐 Socials: -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EdwinoRafitoarisoa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Edwino.big) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EdwinoMaminirina) 
 
+[![committers.top badge](https://user-badge.committers.top/madagascar/MaminirinaEdwino.svg)](https://user-badge.committers.top/madagascar/MaminirinaEdwino)
+
 
 
 
@@ -32,7 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MaminirinaEdwino&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaminirinaEdwino&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaminirinaEdwino&theme=dark&hide_border=true)
-[![committers.top badge](https://user-badge.committers.top/madagascar_private/MaminirinaEdwino.svg)](https://user-badge.committers.top/madagascar_private/MaminirinaEdwino)
+
 
 
 ### ✍️ Random Dev Quote
